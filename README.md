@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moosemorse and my name's Alex 
 - 👀 I’m interested in using programming to solve real world problems and AI (ML)  
 - 🌱 I’m currently an A level student studying comp sci and learning front-end web development + ML as well as developing my overall proficiency in programming
-- 📫 How to reach me: LinkedIn - linkedin.com/in/alex-ivanov-51ab8b254 gmail - aivaylovivanov@gmail.com
+- 📫 How to reach me: LinkedIn - linkedin.com/in/alex-ivanov-51ab8b254 gmail - a.ivanov6174@gmail.com
