@@ -1,4 +1,4 @@
 - 👋 Hi, my name's Alex 
-- 👀 I’m interested in using programming to solve real world problems and AI (ML)  
-- 🌱 I’m currently an A level student studying comp sci and learning front-end web development + ML as well as developing my overall proficiency in programming
+- 👀 I'm interested in building projects and how AI works 
+- 🌱 I’m currently an A-level student studying comp sci
 - 📫 How to reach me: LinkedIn - linkedin.com/in/alex-ivanov-51ab8b254 gmail - a.ivanov6174@gmail.com
