@@ -1,4 +1,4 @@
 - 👋 Hi, my name's Alex
 - 🌱 I’m currently studying computing @ Imperial
 - 👀 At the moment, I'm interested in: ML + algorithmic trading
-- 📫 How to reach me: LinkedIn - linkedin.com/in/alex-ivanov-51ab8b254 gmail - a.ivanov6174@gmail.com
+- 📫 How to reach me: LinkedIn - [https://www.linkedin.com/in/alexander-ivanov24/] gmail - a.ivanov6174@gmail.com
